@@ -1,1 +1,2 @@
-print("gnkwbna bab")
+for i in range (0,4):
+  print("HI")
